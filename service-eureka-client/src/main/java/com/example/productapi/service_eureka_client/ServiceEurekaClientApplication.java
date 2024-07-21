@@ -10,6 +10,9 @@ public class ServiceEurekaClientApplication {
 
 	public static void main(String[] args) {
 		System.out.println("heelo");
+		System.out.println("heelo2222");
+
+
 		SpringApplication.run(ServiceEurekaClientApplication.class, args);
 	}
 
