@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ServiceEurekaClientApplication {
 
 	public static void main(String[] args) {
+		System.out.println("heelo");
 		SpringApplication.run(ServiceEurekaClientApplication.class, args);
 	}
 
